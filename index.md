@@ -300,7 +300,7 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to those with Smithsonian Institution affiliation.
+    This workshop is open to those with Smithsonian Institution affiliation and those who get in touch with us.
 </p>
 
 
